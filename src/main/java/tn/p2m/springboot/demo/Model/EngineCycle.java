@@ -13,7 +13,7 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @Data
 @Document(collection = "data")
-public class Engine {
+public class EngineCycle {
     private int engineId;
     private int cycle;
     private Settings settings;

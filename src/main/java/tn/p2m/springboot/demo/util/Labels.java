@@ -10,5 +10,5 @@ import lombok.NoArgsConstructor;
 public class Labels {
     private int BNC; // Binary Classification Label
     private int MCC; // MultiClass Classification label
-    private float TFF; // Time To Failure (Regression)
+    private float TTF; // Time To Failure (Regression)
 }
